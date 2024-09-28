@@ -150,7 +150,7 @@ $certifications = "Responsive Web Design - freeCodeCamp";
         <div class="sidebar">
             <a href="#education">Education</a>
             <a href="#skills">Skills</a>
-            <a href="#certifications">Certification</a>
+            <a href="#certifications">Certifications</a>
             <a href="#contact">Contact</a>
         </div>
 
@@ -185,7 +185,7 @@ $certifications = "Responsive Web Design - freeCodeCamp";
 
             <hr>
             <div class="section" id="certifications">
-                <h3>Certification</h3>
+                <h3>Certifications</h3>
                 <ul>
                     <li><a href="https://www.freecodecamp.org/certification/amaliaadk/responsive-web-design" target="_blank">
                             <?php echo $certifications; ?></li>
